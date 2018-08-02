@@ -35,17 +35,16 @@ I should be able to track what time I have taken a medication
 So that later I can check when it is ok to take my next dosage
 
 ## Milestones
-
-| Icon   | Stage                                      |
-| ------ | ------------------------------------------ |
-| :boom: | Hosted on an web accessible URL            |
-| :boom: | Selectable medication item                 |
-| :boom: | List of common medications                 |
-| :boom: | Record time now against medication         |
-| :boom: | Store records across sessions              |
-| :boom: | Modify time; move into the past            |
-| :boom: | Create custom medications                  |
-| :boom: | Generate warning for overuse of medication |
-| :boom: | Add in liability waiver confirmation       |
-| :boom: | Allow data to be exported to JSON          |
-| :boom: | Allow data to be exported to CSV           |
+| Icon               | Stage                                      |
+| ------------------ | ------------------------------------------ |
+| :heavy_check_mark: | Hosted on an web accessible URL            |
+| :boom:             | Selectable medication item                 |
+| :boom:             | List of common medications                 |
+| :boom:             | Record time now against medication         |
+| :boom:             | Store records across sessions              |
+| :boom:             | Modify time; move into the past            |
+| :boom:             | Create custom medications                  |
+| :boom:             | Generate warning for overuse of medication |
+| :boom:             | Add in liability waiver confirmation       |
+| :boom:             | Allow data to be exported to JSON          |
+| :boom:             | Allow data to be exported to CSV           |
